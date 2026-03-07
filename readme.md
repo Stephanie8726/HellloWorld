@@ -2,11 +2,9 @@
 
 Hello world example project
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KHHd4h6yxDw)
 
 # Development Environment
-
 python
-
 
 # Useful Websites
